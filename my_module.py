@@ -8,4 +8,4 @@ def mul(a, b, c) :
  return a* b *c
 
 def div(a, b) :
- return a //b
+ return a //b #주석
